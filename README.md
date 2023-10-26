@@ -1,4 +1,7 @@
 # pandas-challenge
+
+I found this quite challenging to begin with and it took me awhile to get the hang of but once I got started it has become my new favourite program. I have done a fair bit in MATLAB and C but now I am enjoying jupyter. 
+
 In this analysis, we explored the performance of schools based on various factors such as spending per student, school size, and school type. We calculated several key metrics for each school and categorized them into different groups to better understand the factors that influence academic performance.
 
 Performance Based on Spending per Student:
